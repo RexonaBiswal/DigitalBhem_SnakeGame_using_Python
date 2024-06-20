@@ -1,0 +1,6 @@
+It is a task given by DigitalBhem.
+In this task I have created a snake game using python.
+This game includes the following things:
+1.Latest score and high score
+2.This game ends when snake collides with wall or with itself.
+The snake grows as it eat the fruit.
